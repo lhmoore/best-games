@@ -1,0 +1,16 @@
+.anything {
+	width: 90vw;
+	margin: 0 auto;
+    background: url(../fortnite.jpg);
+    background-size: cover;
+}
+
+
+h1 {
+	color: blue;
+	letter-spacing: 5px;
+	font-family: helvetica;
+	padding-top: 45vh;
+	text-align: center;
+    
+
